@@ -1,0 +1,43 @@
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.csproj.AssemblyReference.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.AssemblyInfoInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.AssemblyInfo.cs
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.csproj.CoreCompileInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.exe
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.deps.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.runtimeconfig.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\refint\LinQSession1.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.genruntimeconfig.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#5 LinQ\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\ref\LinQSession1.dll
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.exe
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.deps.json
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.runtimeconfig.json
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.dll
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.pdb
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.dll
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\refint\LinQSession1.dll
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.pdb
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.genruntimeconfig.cache
+C:\Users\BisanCo\Desktop\Session 1\Demo\LinQSession1\LinQSession1\obj\Debug\net6.0\ref\LinQSession1.dll
+D:\Back End\linq1\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back End\linq1\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.AssemblyInfoInputs.cache
+D:\Back End\linq1\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.AssemblyInfo.cs
+D:\Back End\linq1\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.csproj.CoreCompileInputs.cache
+D:\Back End\linq1\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.dll
+D:\Back End\linq1\LinQSession1\LinQSession1\obj\Debug\net6.0\refint\LinQSession1.dll
+D:\Back End\linq1\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.pdb
+D:\Back End\linq1\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.exe
+D:\Back End\linq1\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.deps.json
+D:\Back End\linq1\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.runtimeconfig.json
+D:\Back End\linq1\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.dll
+D:\Back End\linq1\LinQSession1\LinQSession1\bin\Debug\net6.0\LinQSession1.pdb
+D:\Back End\linq1\LinQSession1\LinQSession1\obj\Debug\net6.0\LinQSession1.genruntimeconfig.cache
+D:\Back End\linq1\LinQSession1\LinQSession1\obj\Debug\net6.0\ref\LinQSession1.dll
